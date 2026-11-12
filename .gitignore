@@ -1,0 +1,16 @@
+.venv/
+venv/
+env/
+
+Manager Memo.docx
+Manager Memo.pdf
+Manager Memo/
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+.env
+
+.DS_Store
+Thumbs.db

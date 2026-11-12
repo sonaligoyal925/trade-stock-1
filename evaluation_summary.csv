@@ -1,0 +1,13 @@
+Metric,Value
+Eligible clients,2241.0
+Actual churners,614.0
+Overall churn rate,0.2739848282016957
+Random Forest top-200 churners,145.0
+Random Forest Precision@200,0.725
+Random Forest Recall@200,0.23615635179153094
+Random Forest Lift@200,2.646131921824104
+Baseline top-200 churners,143.0
+Baseline Precision@200,0.715
+Baseline Lift@200,2.6096335504885992
+Historical monthly brokerage at risk,2629.9793725
+Risk-weighted brokerage estimate,2154.3120072981783
